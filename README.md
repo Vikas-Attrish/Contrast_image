@@ -10,6 +10,7 @@ Contrast stretching is a simple image enhancement technique that increases the d
 ├── contrast(1).ipynb    # Main Jupyter Notebook (Contrast Stretching Code)
 ├── README.md            # Project Documentation
 └── requirements.txt     # Dependencies
+└── contrast1.jpeg       # Image
 ```
 
 ## 🧰 Requirements
